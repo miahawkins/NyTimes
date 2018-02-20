@@ -11,6 +11,6 @@ const App = () =>
         <Main></Main>
         <Results></Results>
         <Saved><Saved>
-    </Wrapper>;
+    </Wrapper>
     
 export default App;
